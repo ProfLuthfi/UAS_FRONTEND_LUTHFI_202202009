@@ -45,7 +45,7 @@ myModal.addEventListener('shown.bs.modal', function () {
 <footer class="text-center">
 
     <img width="50" height="50" class="m-1" src="{{asset ('apple-touch-icon.png')}}">
-    <div><h5>Data Mahasiswa</h5><p class="fs-6">Kuajak.com 2023</p></div>
+    <div><h5>Data Mahasiswa</h5><p class="fs-6"></p></div>
 
     Laravel v{{ Illuminate\Foundation\Application::VERSION }} (PHP v{{ PHP_VERSION }})
 </footer>
