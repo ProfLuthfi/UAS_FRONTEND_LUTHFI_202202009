@@ -1,0 +1,10 @@
+body{
+  font-family: 'Mitr';
+}
+code{
+  font-family: 'Mitr';
+}
+
+.dropdown-menu {
+  min-width: 4rem;
+}
